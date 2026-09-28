@@ -29,7 +29,7 @@ class HomeTab extends StatelessWidget {
               children: [
                 CircleAvatar(
                   radius: 26,
-                  backgroundImage: AssetImage('assets/peler.jpg'),
+                  backgroundImage: AssetImage('assets/profil.jpg'),
                 ),
                 const SizedBox(width: 14),
                 Expanded(

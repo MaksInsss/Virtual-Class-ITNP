@@ -32,7 +32,7 @@ class HomeDosenTab extends StatelessWidget {
               children: [
                 CircleAvatar(
                   radius: 30,
-                  backgroundImage: AssetImage('assets/peler.jpg'),
+                  backgroundImage: AssetImage('assets/profil.jpg'),
                 ),
                 const SizedBox(width: 16),
                 Expanded(

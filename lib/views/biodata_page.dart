@@ -37,7 +37,7 @@ class BiodataPage extends StatelessWidget {
 
             const CircleAvatar(
               radius: 60,
-              backgroundImage: AssetImage('assets/peler.jpg'),
+              backgroundImage: AssetImage('assets/profil.jpg'),
             ),
 
             const SizedBox(height: 30),

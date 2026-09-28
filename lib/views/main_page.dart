@@ -211,7 +211,7 @@ class _MainPageState extends State<MainPage> {
               ),
 
               currentAccountPicture: const CircleAvatar(
-                backgroundImage: AssetImage('assets/peler.jpg'),
+                backgroundImage: AssetImage('assets/profil.jpg'),
               ),
 
               accountName: Text(
